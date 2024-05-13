@@ -1,5 +1,5 @@
 homepage: "https://www.cendyn.com/"
 documentation: "https://github.com/dev-wihp-cendyn/dmp_gtm_template"
 versions:
-  - sha: c5e541e1f87e39d880f2d395b2a6e264d8a5d3b2
+  - sha: 82305661203a160e29c26575096fc66d52b81b5e
     changeNotes: Initial release.
