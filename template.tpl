@@ -112,7 +112,7 @@ ___TEMPLATE_PARAMETERS___
   {
     "type": "TEXT",
     "name": "amount_with_tax",
-    "displayName": "Total amount With Tax",
+    "displayName": "Total amount with Tax",
     "simpleValueType": true,
     "valueValidators": [
       {
@@ -182,7 +182,7 @@ ___TEMPLATE_PARAMETERS___
         "type": "EQUALS"
       }
     ],
-    "help": "Need to be set only if the wh_token can be caught through the data_layer and not through the URL"
+    "help": "Needs to be set only if the wh_token can be caught through the data_layer and not through the URL"
   },
   {
     "type": "TEXT",
